@@ -12,7 +12,7 @@ Coding this project really taught me a lot. It solidified my understanding of AP
 
 Implementing the basic caching system was particularly interesting because, as simple as it may sound, it was the first time I added a feature that wasn't directly related to the application's core functionality. Instead, the caching system served as an optimization layer, improving the program's performance by reducing redundant processing and network calls. This experience helped me better appreciate the importance of auxiliary features.
 
-Tests also stop feeling like arcane magic that only "Real Developer" can create.
+Tests also stoped feeling like arcane magic that only "Real Developer" can create.
 
 ## Features
 
