@@ -1,4 +1,4 @@
-![Ash Ketchum](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F408068416314152910%2F&psig=AOvVaw34tPVnHZigH7O4BArCOi-x&ust=1742866158734000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjspsTIoYwDFQAAAAAdAAAAABAE)
+![Ash Ketchum](https://www.cnet.com/a/img/resize/4b1ab53ded9295c6eb752134fc178251778e10dd/hub/2022/11/11/61b6d3b1-5b59-4564-812b-d9af287d92de/ash-ketchum-champ.jpg?auto=webp&fit=crop&height=675&width=1200)
 
 # Pokedex CLI Application
 
