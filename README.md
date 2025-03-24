@@ -58,7 +58,6 @@ Tests also stop feeling like arcane magic that only "Real Developer" can create.
 ## Dependencies
 
 - [Go](https://golang.org/) (version 1.23.7 or higher)
-- [PokeAPI](https://pokeapi.co/)
 
 
 
