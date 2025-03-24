@@ -1,3 +1,5 @@
+![Ash Ketchum](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F408068416314152910%2F&psig=AOvVaw34tPVnHZigH7O4BArCOi-x&ust=1742866158734000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjspsTIoYwDFQAAAAAdAAAAABAE)
+
 # Pokedex CLI Application
 
 Thank you [Boot.dev](https://www.boot.dev/) for this fun and educational project 
